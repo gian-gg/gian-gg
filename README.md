@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💻 HTML/CSS
 
 <p><a href="https://itsspooky.netlify.app/">
-<img src="https://media.discordapp.net/attachments/836232703379505183/843707069123133450/pmc.pn" alt="W3Schools.com" width="100" height="132">
+<img src="https://media.discordapp.net/attachments/836232703379505183/843707069123133450/pmc" alt="W3Schools.com" width="100" height="132">
 </a></p>
