@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 #### Languages I'm a familiar with:
 
-- Python
-- HTML/CSS
+- 🐍 Python
+- 💻 HTML/CSS
