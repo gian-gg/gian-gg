@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [My Website](https://itsspooky.netlify.app/) | Discord: `Spooky#0683`
 - ⚡ Fun fact: I Hate garlic
 
-#### Languages I'm a familiar with:
+<-- #### Languages I'm a familiar with:
 
 - 🐍 Python
 - 💻 HTML/CSS
+-->
