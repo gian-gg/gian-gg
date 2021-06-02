@@ -1,6 +1,6 @@
 ### Hallo! 👋
 
-Here are some ideas to get you started:
+about meh :D
 
 - 🔭 I’m currently working on Pack-Man, a bot that generates a manifest.json for minecraft bedrock pack making.
 - 🌱 I’m currently learning Python and Web Development
