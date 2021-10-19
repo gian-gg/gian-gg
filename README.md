@@ -7,7 +7,7 @@ about meh :D
 - 📫 How to reach me: [My Website](https://itsspooky.netlify.app/) | Discord: `Spooky#0683`
 - ⚡ Fun fact: I Hate garlic
 
-[![](https://discord.c99.nl/widget/theme-4/556119013298667520.png)](https://discord.gg/TXF3hBj)
+https://discord.c99.nl/widget/theme-5/695491063946674236.png
 
 <!-- #### Languages I'm a familiar with:
 
