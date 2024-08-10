@@ -1,3 +1,13 @@
-### Hallo! 👋
+# gian.gg
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongo,express,react,nodejs,tailwindcss,bootstrap,php,mysql,arduino,python,c,figma,git,postman)](https://skillicons.dev)
 
-<img src="https://discord.c99.nl/widget/theme-4/695491063946674236.png" alt="">
+
+Intermediate Full Stack Developer | Self-Taught
+
+Studying __Bachelor of Science in Computer Science__ at [University of San Carlos](https://www.facebook.com/usccebu).
+
+![macOS](https://img.shields.io/badge/Mac_OS--white) ![VScode](https://img.shields.io/badge/VS_Code-VS-blue) ![🦉](https://img.shields.io/badge/Night_Owl-🦉-lightgray)
+
+##
+
+![](https://discord.c99.nl/widget/theme-4/695491063946674236.png)
