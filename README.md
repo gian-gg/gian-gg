@@ -6,7 +6,7 @@ Intermediate Full Stack Developer | Self-Taught
 
 Studying __Bachelor of Science in Computer Science__ at [University of San Carlos](https://www.facebook.com/usccebu).
 
-![macOS](https://img.shields.io/badge/Mac_OS--white) ![VScode](https://img.shields.io/badge/VS_Code-VS-blue) ![🦉](https://img.shields.io/badge/Night_Owl-🦉-lightgray)
+![macOS](https://img.shields.io/badge/MacOS--white) ![VScode](https://img.shields.io/badge/VS_Code-VS-blue) ![🦉](https://img.shields.io/badge/Night_Owl-🦉-lightgray)
 
 ##
 
