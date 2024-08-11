@@ -1,4 +1,4 @@
-# gian.gg
+# gian.gg // Geri Gian Epanto
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mongo,express,react,nodejs,tailwindcss,bootstrap,php,mysql,arduino,python,c,figma)](https://skillicons.dev)
 
 
@@ -14,3 +14,6 @@ Studying __Bachelor of Science in Computer Science__ at [University of San Carlo
 ![](https://discord.c99.nl/widget/theme-4/695491063946674236.png)
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian-gg&layout=compact)
+
+##
+_formerly spookyexe_
