@@ -11,8 +11,4 @@ Studying __Bachelor of Science in Computer Science__ at [University of San Carlo
 
 ##
 
-![](https://discord.c99.nl/widget/theme-4/695491063946674236.png)
-
-##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian-gg&layout=compact)
+![](https://discord.c99.nl/widget/theme-4/695491063946674236.png) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian-gg&layout=compact)
