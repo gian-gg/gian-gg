@@ -4,7 +4,7 @@
 
 Intermediate Full Stack Developer | Self-Taught
 
-Studying __Bachelor of Science in Computer Science __ at [University of San Carlos](https://usc.edu.ph/).
+Studying __Bachelor of Science in Computer Science__ at [University of San Carlos](https://usc.edu.ph/).
 
 ![macOS](https://img.shields.io/badge/MacOS--white?style=for-the-badge) ![VScode](https://img.shields.io/badge/VS_Code-VS-blue?style=for-the-badge) ![🦉](https://img.shields.io/badge/currently_working_on-commission-violet?style=for-the-badge)
 
