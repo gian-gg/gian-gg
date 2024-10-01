@@ -16,8 +16,7 @@ Studying __Bachelor of Science in Computer Science__ at [University of San Carlo
 
 ##
 
-![banner](https://github.com/user-attachments/assets/fb66391f-85ec-40d9-805e-81d3bb2335e8)
-
+![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
 
 ##
 _formerly spookyexe_
