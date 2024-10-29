@@ -1,5 +1,5 @@
 # gian.gg // gian epanto
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongo,express,react,nodejs,tailwindcss,bootstrap,php,mysql,arduino,python,c,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongo,express,react,nodejs,tailwindcss,php,mysql,arduino,python,c,figma,vercel,netlify)](https://skillicons.dev)
 
 
 
