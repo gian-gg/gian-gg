@@ -1,4 +1,4 @@
-# gian.gg // gian epanto
+# gian.gg
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,php,mongo,mysql,python,c,arduino,figma,vercel,netlify)](https://skillicons.dev)
 
 
