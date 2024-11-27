@@ -11,7 +11,7 @@ Studying __Bachelor of Science in Computer Science__ at [University of San Carlo
 ![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
 ##
 
-![](https://discord.c99.nl/widget/theme-4/695491063946674236.png) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian-gg&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian-gg&layout=compact) ![](https://discord.c99.nl/widget/theme-4/695491063946674236.png)
 
 ##
 _formerly spookyexe_
