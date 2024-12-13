@@ -5,7 +5,7 @@
 
 Studying __Bachelor of Science in Computer Science__ at [University of San Carlos](https://usc.edu.ph/).
 
-![macOS](https://img.shields.io/badge/MacOS--white?style=for-the-badge) ![VScode](https://img.shields.io/badge/VS_Code-VS-blue?style=for-the-badge) ![🦉](https://img.shields.io/badge/currently_working_on-CIS1102N-violet?style=for-the-badge)
+![macOS](https://img.shields.io/badge/MacOS--white?style=for-the-badge) ![VScode](https://img.shields.io/badge/VS_Code-VS-blue?style=for-the-badge) ![🦉](https://img.shields.io/badge/currently_working_on-Myself-violet?style=for-the-badge)
 
 ##
 ![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
