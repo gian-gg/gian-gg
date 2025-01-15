@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,php,python,c,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,python,c,arduino" />
   </a>
   
   <h1>
