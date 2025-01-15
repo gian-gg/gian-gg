@@ -5,12 +5,12 @@
   </a>
 </p>
 
+<div align="center">
+  Studying <strong>Bachelor of Science in Computer Science</strong> at <a href="https://usc.edu.ph/">University of San Carlos</a>.
+  ![macOS](https://img.shields.io/badge/MacOS--white?style=for-the-badge) ![VScode](https://img.shields.io/badge/VS_Code-VS-blue?style=for-the-badge) ![🦉](https://img.shields.io/badge/currently_working_on-jiji-violet?style=for-the-badge)
+</div>
 
-<p align="center">
-  Studying __Bachelor of Science in Computer Science__ at [University of San Carlos](https://usc.edu.ph/).
-</p>
 
-![macOS](https://img.shields.io/badge/MacOS--white?style=for-the-badge) ![VScode](https://img.shields.io/badge/VS_Code-VS-blue?style=for-the-badge) ![🦉](https://img.shields.io/badge/currently_working_on-jiji-violet?style=for-the-badge)
 
 <p align="center">
   <a href="https://skillicons.dev">
