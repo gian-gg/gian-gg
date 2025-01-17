@@ -5,7 +5,7 @@
   
   <h1>
     Geri Gian Epanto | gian.gg
-    <br />
+    <br /><br />
     <img src="https://img.shields.io/badge/MacOS--white?style=for-the-badge" alt="macOS Badge" />
     <img src="https://img.shields.io/badge/VS_Code-VS-blue?style=for-the-badge" alt="VS Code Badge" />
     <img src="https://img.shields.io/badge/currently_working_on-jiji-violet?style=for-the-badge" alt="Currently Working On Badge" />
