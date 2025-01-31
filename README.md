@@ -12,7 +12,7 @@
   </h1>
   <br />
 
-  | <ul align="left"><li>🏫 1st Year Computer Science Student at <a href="usc.edu.ph">University of San Carlos</a></li><li>🧑‍💻 Currently Learning: NextJS, Firebase</li><li>✉️ Contact Me: epanto.gg@gmail.com</li></ul> |
+  | <ul align="left"><li>🏫 1st Year Computer Science Student at <a href="usc.edu.ph">University of San Carlos</a></li><li>🧑‍💻 Interests: Web Development, UI/UX Design, Graphic Design</li><li>✉️ Contact Me: epanto.gg@gmail.com</li></ul> |
   | - |
   
   <br />
