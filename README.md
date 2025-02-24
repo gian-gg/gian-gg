@@ -1,12 +1,10 @@
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,python,c,arduino" />
-  </a>
+  <img src="https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,python,c,arduino" />
   
   <h1>
     👋 I'm gian.gg
     <br />
-    <img src="https://img.shields.io/badge/MacOS--white?style=for-the-badge" alt="macOS Badge" />
+    <img src="https://img.shields.io/badge/MacOS-M1-white?style=for-the-badge" alt="macOS Badge" />
     <img src="https://img.shields.io/badge/VS_Code-VS-blue?style=for-the-badge" alt="VS Code Badge" />
     <img src="https://img.shields.io/badge/currently_working_on-jiji-violet?style=for-the-badge" alt="Currently Working On Badge" />
   </h1>
@@ -17,9 +15,7 @@
   
   <br />
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vercel,netlify,firebase,mysql,notion,git,github,postman,vscode" />
-  </a>
+  <img src="https://skills-icons.vercel.app/api/icons?i=figma,vercel,netlify,firebase,mysql,supabase,notion,git,github,postman,vscode,shadcnui,daisy,clerk" />
 
 ##
 ![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
