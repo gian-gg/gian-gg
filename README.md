@@ -15,7 +15,7 @@
   
   <br />
 
-  <img src="https://skills-icons.vercel.app/api/icons?i=figma,vercel,netlify,firebase,mysql,supabase,notion,git,github,postman,vscode,shadcnui,daisy,clerk" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=figma,vercel,netlify,firebase,mysql,supabase,notion,git,github,postman,vscode,shadcnui,daisy,daisyui,clerk" />
 
 ##
 ![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
