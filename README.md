@@ -4,14 +4,27 @@
   <h1>
     👋 I'm gian.gg
     <br />
-    <img src="https://img.shields.io/badge/MacOS-M1-white?style=for-the-badge" alt="macOS Badge" />
-    <img src="https://img.shields.io/badge/VS_Code-VS-blue?style=for-the-badge" alt="VS Code Badge" />
-    <img src="https://img.shields.io/badge/currently_working_on-jiji-violet?style=for-the-badge" alt="Currently Working On Badge" />
+    
+  <a href="https://www.linkedin.com/in/gian-epanto" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    
+  <a href="mailto:epanto.gg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+    
+  <a href="https://www.facebook.com/epanto.gg" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+    
   </h1>
-  <br />
 
-  | <ul align="left"><li>🏫 1st Year Computer Science Student at <a href="usc.edu.ph">University of San Carlos</a></li><li>🧑‍💻 Interests: Web Development, UI/UX Design, Graphic Design</li><li>✉️ Contact Me: epanto.gg@gmail.com</li></ul> |
-  | - |
+<div style="display: inline-block; text-align: left;">
+
+  <p>🏫 BS Computer Science Student at the <a href="https://usc.edu.ph" target="_blank">University of San Carlos</a></p>
+  <p>🧑‍💻 Interests: Full-Stack Development, UI/UX Design, Graphic Design</p>
+
+</div>
   
   <br />
 
@@ -29,4 +42,5 @@
 </div>
 
 ##
-_formerly spookyexe_
+**⚡ Powered by pixels, Ctrl+Z, and console.logs.**
+
