@@ -34,11 +34,14 @@
 ![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
 ##
 
-  
-  
 
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gian-gg&layout=compact&theme=transparent&title_color=AFADAF&text_color=AFADAF&hide_border=true" alt="Top Languages" /> | <img src="https://discord.c99.nl/widget/theme-4/695491063946674236.png" alt="Discord Status" /> |
-  | - | - |
+<a href="#">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gian-gg&theme=dark&hide_border=true&bg_color=00000000&count_private=true&show_icons=true" />
+</a>
+<a href="#">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gian-gg&theme=dark&layout=compact&langs_count=6&card_width=320&hide_border=true&bg_color=00000000&count_private=true" />
+</a>
+
 </div>
 
 ##
