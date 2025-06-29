@@ -45,5 +45,4 @@
 </div>
 
 ##
-**⚡ Powered by pixels, Ctrl+Z, and console.logs.**
-
+![](https://komarev.com/ghpvc/?username=your-github-gian-gg)
