@@ -22,7 +22,7 @@
 <div style="display: inline-block; text-align: left;">
 
   <p>🏫 BS Computer Science Student at the <a href="https://usc.edu.ph" target="_blank">University of San Carlos</a></p>
-  <p>🧑‍💻 Interests: Full-Stack Development, UI/UX Design, Graphic Design</p>
+  <p>🧑‍💻 Interests: Full-Stack Development, UI/UX Design, Machine Learning</p>
 
 </div>
   
