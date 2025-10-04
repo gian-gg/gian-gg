@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://skills-icons.vercel.app/api/icons?i=ts,react,astro,nextjs,nodejs,php,python,c,arduino" />
   
   <h1>
     👋 I'm gian.gg
@@ -28,7 +27,7 @@
   
   <br />
 
-  <img src="https://skills-icons.vercel.app/api/icons?i=figma,firebase,mysql,supabase,shadcnui,tailwind,drizzle,zustand" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=ts,react,astro,nextjs,php,python,c,arduino,figma,firebase,mysql,supabase,tailwind,drizzle,zustand" />
 
 ##
 ![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
