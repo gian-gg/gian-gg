@@ -27,10 +27,8 @@
   
   <br />
 
-  <img src="https://skills-icons.vercel.app/api/icons?i=ts,react,astro,nextjs,php,python,c,arduino,figma,firebase,mysql,supabase,tailwind,drizzle,zustand" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=python,c,ts,astro,nextjs,php,arduino,figma,mysql,postgresql" />
 
-##
-![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
 ##
 
 
@@ -42,6 +40,12 @@
 </a>
 
 </div>
+
+##
+
+![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
+
+##
 
 ##
 ![](https://komarev.com/ghpvc/?username=your-github-gian-gg)
