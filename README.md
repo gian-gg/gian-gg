@@ -29,16 +29,6 @@
 
   <img src="https://skills-icons.vercel.app/api/icons?i=python,c,ts,astro,nextjs,php,arduino,figma,mysql,postgresql" />
 
-##
-
-
-<a href="#">
-  <img height=164 align="center" src="https://github-readme-stats.vercel.app/api?username=gian-gg&theme=dark&hide_border=true&bg_color=00000000&count_private=true&show_icons=true" />
-</a>
-<a href="#">
-  <img height=164 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gian-gg&theme=dark&layout=compact&langs_count=6&card_width=164&hide_border=true&bg_color=00000000&count_private=true" />
-</a>
-
 </div>
 
 ##
@@ -47,5 +37,4 @@
 
 ##
 
-##
 ![](https://komarev.com/ghpvc/?username=your-github-gian-gg)
