@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>
-    👋 I'm gian.gg
+    I'm gian.gg 👋
     <br />
     
   <a href="https://www.linkedin.com/in/gian-epanto" target="_blank">
@@ -27,14 +27,14 @@
   
   <br />
 
-  <img src="https://skills-icons.vercel.app/api/icons?i=python,c,ts,astro,nextjs,php,arduino,figma,mysql,postgresql" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=python,c,ts,astro,nextjs,php,arduino,figma,mysql,postgresql" /> 
 
 </div>
 
 ##
 
-![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e)
+![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e) 
 
 ##
 
-![](https://komarev.com/ghpvc/?username=your-github-gian-gg)
+![majorly me lmao](https://komarev.com/ghpvc/?username=your-github-gian-gg)
