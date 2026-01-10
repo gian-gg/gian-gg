@@ -20,21 +20,23 @@
 
 <div style="display: inline-block; text-align: left;">
 
-  <p>🏫 BS Computer Science Student at the <a href="https://usc.edu.ph" target="_blank">University of San Carlos</a></p>
-  <p>🧑‍💻 Interests: Full-Stack Development, Web3, Machine Learning</p>
+  <p>🎓 DOST-SEI Scholar & BS Computer Science Undergraduate</p>
+  <p>🛠️ Focus: AI Engineering, Full-Stack Development, & Agentic Workflows</p>
 
 </div>
   
   <br />
 
-  <img src="https://skills-icons.vercel.app/api/icons?i=python,c,ts,astro,nextjs,php,arduino,figma,mysql,postgresql,supabase,gcp" /> 
+  <img src="https://skills-icons.vercel.app/api/icons?i=python,c,ts,nextjs,astro,postgresql,git,gcp" />
 
 </div>
 
-##
+---
+
+<div align="center">
 
 ![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e) 
 
-##
-
 ![majorly me lmao](https://komarev.com/ghpvc/?username=your-github-gian-gg)
+
+</div>
