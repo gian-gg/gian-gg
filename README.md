@@ -8,7 +8,7 @@ Focused on modern **Full-Stack** architectures and their intersection with **AI 
 
 ### 🛠️ Tech/Tools
 
-<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,c,nextjs,astro,postgresql,git" alt="Tech Stack" />
+<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,c,nextjs,astro,postgresql,git,langchain,aisdk" alt="Tech Stack" />
 
 ### 📫 Connect
 
