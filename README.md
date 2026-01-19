@@ -6,7 +6,7 @@ Focused on modern **Full-Stack** architectures and their intersection with **AI 
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech/Tools
 
 <img src="https://skills-icons.vercel.app/api/icons?i=ts,python,c,nextjs,astro,postgresql,git" alt="Tech Stack" />
 
