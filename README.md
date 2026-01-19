@@ -1,42 +1,23 @@
-<div align="center">
-  
-  <h1>
-    I'm gian.gg 👋
-    <br />
-    
-  <a href="https://www.linkedin.com/in/gian-epanto" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-    
-  <a href="mailto:epanto.gg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-    
-  <a href="https://www.facebook.com/epanto.gg" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-    
-  </h1>
+# gian.gg / Gian Epanto
 
-<div style="display: inline-block; text-align: left;">
+**DOST-SEI Scholar** • **BS Computer Science 2**
 
-  <p>🎓 DOST-SEI Scholar & BS Computer Science Undergraduate</p>
-  <p>🛠️ Focus: AI Engineering, Full-Stack Development, & Agentic Workflows</p>
-
-</div>
-  
-  <br />
-
-  <img src="https://skills-icons.vercel.app/api/icons?i=python,c,ts,nextjs,astro,postgresql,git,gcp" />
-
-</div>
+Focused on modern **Full-Stack** architectures and their intersection with **AI Engineering**.
 
 ---
 
-<div align="center">
+### 🛠️ Technical Arsenal
 
-![banner kinda thicc](https://github.com/user-attachments/assets/f3c2010b-9231-40dd-9d4e-40a8b7817e6e) 
+<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,c,nextjs,astro,postgresql,git" alt="Tech Stack" />
 
-![majorly me lmao](https://komarev.com/ghpvc/?username=your-github-gian-gg)
+### 📫 Connect
 
-</div>
+<a href="https://www.linkedin.com/in/gian-epanto">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:epanto.gg@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.facebook.com/epanto.gg">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
