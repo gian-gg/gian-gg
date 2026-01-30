@@ -1,4 +1,4 @@
-# gian.gg / Gian Epanto
+# giann. / Gian Epanto
 
 **DOST-SEI Scholar** • **BS Computer Science 2**
 
