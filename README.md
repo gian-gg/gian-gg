@@ -1,5 +1,3 @@
-# giann. / Gian Epanto
-
 **AI** • **Full-Stack**
 
 ---
