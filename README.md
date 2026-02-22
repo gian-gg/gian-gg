@@ -14,17 +14,6 @@
 
 ---
 
-### 📫 Connect
-
-<a href="https://www.linkedin.com/in/gian-epanto">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:epanto.gg@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.facebook.com/epanto.gg">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
 <a href="https://giann.dev">
-  <img src="https://img.shields.io/badge/giann.dev-000000?style=flat-square&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/giann.dev-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=0A0A0A" alt="Website" />
 </a>
