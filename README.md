@@ -1,4 +1,4 @@
-**AI** • **Full-Stack**
+**AI × Full-Stack**
 
 **AI SWE Intern** @ [Evo Tech Software Solutions Inc](https://evotechdev.com)  
 **CTO** @ [GDG-USC](https://usc.gdgoc.tech)  
@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech/Tools
 
-<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,c,nextjs,astro,postgresql,git,langchain,aisdk,fastapi" alt="Tech Stack" />
+<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,c,nextjs,expo,astro,postgresql,git,langchain,aisdk,fastapi" alt="Tech Stack" />
 
 ---
 
