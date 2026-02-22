@@ -25,3 +25,6 @@
 <a href="https://www.facebook.com/epanto.gg">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
+<a href="https://giann.dev">
+  <img src="https://img.shields.io/badge/giann.dev-000000?style=flat-square&logoColor=white" alt="Website" />
+</a>
