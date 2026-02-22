@@ -4,7 +4,7 @@
 **CTO** @ [GDG-USC](https://usc.gdgoc.tech)  
 **Tech Lead** @ [DOST SA USC](https://dostsausc.org)
 
-**DOST-SEI Scholar** • **BS Computer Science - 2**
+**DOST-SEI Scholar** • **BS Computer Science - 2** • **[University of San Carlos](https://usc.edu.ph/)**
 
 ---
 
