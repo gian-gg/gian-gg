@@ -8,8 +8,6 @@
 
 ---
 
-### 🛠️ Tech/Tools
-
 <img src="https://skills-icons.vercel.app/api/icons?i=ts,python,c,nextjs,expo,astro,postgresql,git,langchain,aisdk,fastapi" alt="Tech Stack" />
 
 ---
