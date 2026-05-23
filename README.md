@@ -1,14 +1,10 @@
-**AI × Full-Stack**
-
 **AI SWE Intern** @ [Evo Tech Software Solutions Inc](https://evotechdev.com)  
-**CTO** @ [GDG-USC](https://usc.gdgoc.tech)  
-**Tech Lead** @ [DOST SA USC](https://dostsausc.org)
 
 **DOST-SEI Scholar** • **BS Computer Science - 2** • **[University of San Carlos](https://usc.edu.ph/)**
 
 ---
 
-<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,c,nextjs,expo,astro,postgresql,git,langchain,aisdk,fastapi" alt="Tech Stack" />
+<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,nextjs,expo,langchain,aisdk,fastapi" alt="Tech Stack" />
 
 ---
 
