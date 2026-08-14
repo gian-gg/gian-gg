@@ -9,10 +9,6 @@
 
 ---
 
-<a href="https://user-badge.committers.top/philippines_private/gian-gg">
-  <img align="right" src="https://user-badge.committers.top/philippines_private/gian-gg.svg" alt="Committers.top" />
-</a>
-
 <a href="https://giann.dev">
   <img src="https://img.shields.io/badge/giann.dev-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=0A0A0A" alt="Website" />
 </a>
