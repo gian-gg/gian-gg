@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,nextjs,expo,langchain,aisdk,fastapi" alt="Tech Stack" />
+<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,nextjs,expo,langchain,aisdk" alt="Tech Stack" />
 
 ---
 
