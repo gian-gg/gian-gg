@@ -1,6 +1,4 @@
-**SWE Intern** @ [Evo Tech Software Solutions Inc](https://evotechdev.com)  
-
-**DOST-SEI Scholar** • **BS Computer Science - 3** • **[University of San Carlos](https://usc.edu.ph/)**
+**SWE Intern** • **DOST-SEI Scholar** • **BS Computer Science - 3** • **[University of San Carlos](https://usc.edu.ph/)**
 
 ---
 
