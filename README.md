@@ -1,5 +1,4 @@
 **SWE Intern** @ [Evo Tech Software Solutions Inc](https://evotechdev.com)  
-**Backend AI Intern** @ [Flyrank AI](https://flyrank.ai)
 
 **DOST-SEI Scholar** • **BS Computer Science - 3** • **[University of San Carlos](https://usc.edu.ph/)**
 
