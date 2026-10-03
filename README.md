@@ -1,7 +1,9 @@
 **SWE Intern** • **DOST-SEI Scholar** • **BS Computer Science - 3** • **[University of San Carlos](https://usc.edu.ph/)**
 
 ---
-<img src="https://icon-marquee.giann.dev/v1/marquee?i=python,ts,nextjs,react,expo,astro,fastapi,nodejs,drizzle,postgresql,supabase,redis,docker,n8n,langchain,mcp,chatgpt,gemini,aisdk&width=1000" alt="tech" />
+<a href="https://icon-marquee.giann.dev/" title="built by me">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=python,ts,nextjs,react,expo,astro,fastapi,nodejs,drizzle,postgresql,supabase,redis,docker,n8n,langchain,mcp,chatgpt,gemini,aisdk&width=1000" alt="tech" />
+</a>
 
 ---
 
