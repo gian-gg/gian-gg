@@ -1,8 +1,7 @@
 **SWE Intern** • **DOST-SEI Scholar** • **BS Computer Science - 3** • **[University of San Carlos](https://usc.edu.ph/)**
 
 ---
-
-<img src="https://skills-icons.vercel.app/api/icons?i=ts,python,nextjs,expo,langchain,aisdk" alt="Tech Stack" />
+<img src="https://icon-marquee.giann.dev/v1/marquee?i=python,ts,nextjs,expo,astro,fastapi,nodejs,docker,n8n,langchain,mcp&width=1000" alt="tech" />
 
 ---
 
