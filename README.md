@@ -2,7 +2,7 @@
 
 ---
 <a href="https://icon-marquee.giann.dev/" title="i built this">
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=python,ts,nextjs,react,expo,astro,fastapi,nodejs,drizzle,postgresql,supabase,redis,docker,n8n,langchain,mcp,chatgpt,gemini,aisdk&width=1000" alt="tech" />
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=python,ts,nextjs,swift,go,react,expo,astro,fastapi,nodejs,drizzle,postgresql,supabase,redis,docker,n8n,langchain,mcp,chatgpt,gemini,aisdk&width=1000" alt="tech" />
 </a>
 
 ---
