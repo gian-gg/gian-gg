@@ -1,4 +1,7 @@
-**SWE Intern** • **DOST-SEI Scholar** • **BS Computer Science - 3** • **[University of San Carlos](https://usc.edu.ph/)**
+
+<a href="https://giann.dev">
+  <img src="assets/cover.png" alt="cover" width="100%" />
+</a>
 
 ---
 <a href="https://icon-marquee.giann.dev/" title="i built this">
@@ -6,7 +9,3 @@
 </a>
 
 ---
-
-<a href="https://giann.dev">
-  <img src="https://img.shields.io/badge/giann.dev-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=0A0A0A" alt="Website" />
-</a>
